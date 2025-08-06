@@ -23,6 +23,14 @@ An application that predicts a user's risk level (Low, Medium, High) of becoming
   - Node.js + static server  
   - Leaflet/OpenStreetMap map  
   - HTML/CSS/JS
+ 
+
+<img width="1389" height="836" alt="Screenshot 2025-05-16 at 12 29 46 AM" src="https://github.com/user-attachments/assets/71b5d0d5-2f0d-4f04-9e76-ae28a7ef5d7f" />
+<img width="1390" height="838" alt="Screenshot 2025-05-16 at 12 31 27 AM" src="https://github.com/user-attachments/assets/2a20c7d0-4795-4b9d-9853-a16013d4293e" />
+<img width="1391" height="836" alt="Screenshot 2025-05-16 at 12 31 03 AM" src="https://github.com/user-attachments/assets/ad791020-fcd6-4ff2-aaf5-c5a340bc9cf4" />
+<img width="1389" height="835" alt="Screenshot 2025-05-16 at 12 31 43 AM" src="https://github.com/user-attachments/assets/64211235-dae2-48cd-b9b7-a569837d5728" />
+
+
 
 ## Prerequisites/Installations
 
@@ -69,4 +77,3 @@ Follow these steps to run CRIMECAST locally.
 - Grace Kim
 - Jessica Wong
 - Daniel Kim
-
